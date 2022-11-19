@@ -4,6 +4,8 @@ import Details from './section/Details'
 import {Route} from 'react-router-dom'
 import Cart from './section/Cart'
 import Payment from './section/Payment'
+import { About } from '../pages/About';
+import { Contact } from '../pages/Contact';
 
 
 export default class Section extends Component{
@@ -11,10 +13,12 @@ export default class Section extends Component{
     return(
       <div>
         <section>
-          <Route path="/product" component={Products} exact/>
+          <Route path="/" component={Products} exact/>
           <Route path="/product/:id" component={Details} />
           <Route path="/cart" component={Cart} />
           <Route path="/payment" component={Payment} />
+          <Route path="/about" component={About} />
+          <Route path="/contact" component={Contact} />
         </section>
       </div>
     )

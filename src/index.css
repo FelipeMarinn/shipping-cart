@@ -15,7 +15,7 @@ code {
 }
 
 .app {
-  max-width:  1200px;
+  max-width:  80%;
   width: 100%;
   margin: 0 auto;
   margin-top: 5px;
@@ -23,3 +23,5 @@ code {
 section {
   padding: 15px 10px;
 }
+
+
