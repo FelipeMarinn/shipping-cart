@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d349a3ffb259c5a24e0f",
-    "url": "/shipping-cart/static/css/main.4eb181a3.chunk.css"
+    "revision": "066c6fdda1013314c029",
+    "url": "/shipping-cart/static/css/main.73eebf1b.chunk.css"
   },
   {
-    "revision": "d349a3ffb259c5a24e0f",
+    "revision": "066c6fdda1013314c029",
     "url": "/shipping-cart/static/js/main.719f453c.chunk.js"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/shipping-cart/static/media/times-solid.2c5552a1.svg"
   },
   {
-    "revision": "aa278bec7b3afa018ee5b9908cb02230",
+    "revision": "544a2dd059cc112bee8f29abbb0439f7",
     "url": "/shipping-cart/index.html"
   }
 ];
