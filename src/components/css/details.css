@@ -5,6 +5,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     margin: 50px 0; 
+    height: 100vh;
 }
 .details img {
     max-width: 450px;
@@ -48,11 +49,9 @@
 }
 .thumb {
     max-width: 600px;
-    height: 290px;
     display: flex;
     cursor: pointer;
     overflow-y: scroll;
-    height: 45vh;
     padding: 0;
 }
 .thumb::-webkit-scrollbar {
@@ -94,7 +93,7 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     padding: 10px 25px;
-    margin-top: 20px;
+    margin-top: 40px;
     display: inline-block;
 }
 .box .cart:hover {  
