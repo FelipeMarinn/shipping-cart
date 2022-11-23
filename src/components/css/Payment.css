@@ -1,0 +1,23 @@
+.checkout-button {
+    text-decoration: none;
+    background-color: #333;
+    color: whitesmoke;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 10px 25px;
+}
+.checkout-button:hover {
+    color: lightseagreen;
+}
+
+.payment-result {
+    text-align: center;
+    display: table; 
+    height: 100%;
+    width: 100%;
+}
+
+.payment__statement {
+    display: table-cell;
+    vertical-align: middle;
+}

@@ -3,9 +3,10 @@ import Products from './section/Products'
 import Details from './section/Details'
 import {Route} from 'react-router-dom'
 import Cart from './section/Cart'
-import Payment from './section/Payment'
 import { About } from '../pages/About';
 import { Contact } from '../pages/Contact';
+import { Cancel } from './section/Cancel';
+import { Success } from './section/Success';
 
 
 export default class Section extends Component{
@@ -16,9 +17,10 @@ export default class Section extends Component{
           <Route path="/" component={Products} exact/>
           <Route path="/product/:id" component={Details} />
           <Route path="/cart" component={Cart} />
-          <Route path="/payment" component={Payment} />
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
+          <Route path="/success" component={Success} />
+          <Route path="/cancel" component={Cancel} />
         </section>
       </div>
     )
