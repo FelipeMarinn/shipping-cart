@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3381e49ebfbcbbc05af8",
+    "revision": "d349a3ffb259c5a24e0f",
     "url": "/shipping-cart/static/css/main.4eb181a3.chunk.css"
   },
   {
-    "revision": "3381e49ebfbcbbc05af8",
-    "url": "/shipping-cart/static/js/main.78f4fd8e.chunk.js"
+    "revision": "d349a3ffb259c5a24e0f",
+    "url": "/shipping-cart/static/js/main.719f453c.chunk.js"
   },
   {
     "revision": "a74e945f730623fdb6b4",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/shipping-cart/static/media/times-solid.2c5552a1.svg"
   },
   {
-    "revision": "72a3cfcc27b47dc7abb3884b3f32afd1",
+    "revision": "aa278bec7b3afa018ee5b9908cb02230",
     "url": "/shipping-cart/index.html"
   }
 ];
