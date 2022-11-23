@@ -6,7 +6,7 @@ import '../css/cart.css';
 import Payment  from '../Payment';
 
 
-export class Products extends Component{
+export class Cart extends Component{
   static contextType = DataContext
 
   componentDidMount() {
@@ -57,4 +57,4 @@ export class Products extends Component{
   }
 }
 
-export default Products
+export default Cart
