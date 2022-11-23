@@ -14,12 +14,19 @@ code {
     monospace;
 }
 
-.app {
-  max-width:  1200px;
+body, html {
+  height: 100%;
   width: 100%;
-  margin: 0 auto;
-  margin-top: 5px;
 }
+
+.app {
+  max-width:  80%;
+  margin: 0 auto;
+}
+
 section {
   padding: 15px 10px;
 }
+
+
+

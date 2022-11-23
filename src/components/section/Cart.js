@@ -1,8 +1,9 @@
 import React, {Component} from 'react';
 import {DataContext} from '../Context'
-import {Link} from 'react-router-dom'
+// import {Link} from 'react-router-dom'
 import '../css/details.css';
 import '../css/cart.css';
+import Payment  from '../Payment';
 
 
 export class Products extends Component{
@@ -47,7 +48,7 @@ export class Products extends Component{
           ))
         }
         <div className='total'>
-          <Link to='/payment'>Payment</Link>
+          <Payment />
           <h3>Total: ${total}</h3>
         </div>
         </>
