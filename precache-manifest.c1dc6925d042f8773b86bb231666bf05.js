@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "b4405f0833a333070d54",
+    "revision": "3381e49ebfbcbbc05af8",
     "url": "/shipping-cart/static/css/main.4eb181a3.chunk.css"
   },
   {
-    "revision": "b4405f0833a333070d54",
-    "url": "/shipping-cart/static/js/main.4930498c.chunk.js"
+    "revision": "3381e49ebfbcbbc05af8",
+    "url": "/shipping-cart/static/js/main.78f4fd8e.chunk.js"
   },
   {
     "revision": "a74e945f730623fdb6b4",
     "url": "/shipping-cart/static/js/runtime~main.bc851485.js"
   },
   {
-    "revision": "303de8351b76bcd3af07",
-    "url": "/shipping-cart/static/js/2.792424b4.chunk.js"
+    "revision": "a41b301985cc79c6201a",
+    "url": "/shipping-cart/static/js/2.dd1bf2dc.chunk.js"
   },
   {
     "revision": "5d1cf33fbcc6c584e144",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/shipping-cart/static/media/times-solid.2c5552a1.svg"
   },
   {
-    "revision": "cd79198704d2ed3f6520dfbcabe04617",
+    "revision": "72a3cfcc27b47dc7abb3884b3f32afd1",
     "url": "/shipping-cart/index.html"
   }
 ];
